@@ -1,0 +1,30 @@
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs.Core\bin\Debug\System.Net.Http.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs.Core\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs.Core\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs.Core\bin\Debug\System.Net.Http.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs.Core\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs.Core\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.csprojAssemblyReference.cache
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.csproj.CoreCompileInputs.cache
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.csproj.CopyComplete
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs.Core\bin\Debug\System.Net.Http.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs.Core\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs.Core\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs.Core\bin\Debug\System.Net.Http.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs.Core\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs.Core\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.csprojAssemblyReference.cache
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.csproj.CoreCompileInputs.cache
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.csproj.CopyComplete
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs.Core\obj\Debug\RaysHotDogs.Core.pdb

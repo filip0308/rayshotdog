@@ -1,0 +1,11 @@
+RaysHotDogs.Core
+System.Runtime
+Xamarin.Android.Support.v4
+Xamarin.GooglePlayServices.Base
+Xamarin.GooglePlayServices.Basement
+Xamarin.GooglePlayServices.Location
+Xamarin.GooglePlayServices.Maps
+Newtonsoft.Json
+System.Net.Http.Primitives
+System.Reflection.Extensions
+System.Diagnostics.Tools

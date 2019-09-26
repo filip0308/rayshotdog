@@ -1,0 +1,214 @@
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\RaysHotDogs.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\RaysHotDogs.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\com.companyname.rayshotdogs.apk
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\com.companyname.rayshotdogs-Signed.apk
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\System.Net.Http.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\System.Net.Http.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\MonoAndroid,Version=v4.4.AssemblyAttributes.cs
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\RaysHotDogs.nuget.stamp
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\RaysHotDogs.csprojAssemblyReference.cache
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\libraryimports.cache.stamp
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res.flag
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\RaysHotDogs.csproj.CoreCompileInputs.cache
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\RaysHotDogs.csproj.CopyComplete
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\RaysHotDogs.dll
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\RaysHotDogs.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\android\bin\com.companyname.rayshotdogs.apk
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\hotdogrowview.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\mainmenu.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\aboutview.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\cartview.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\cartrowview.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\favoritehotdogfragment.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\meatloversfragment.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\veggieloversfragment.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\hotdogtabbedmenu.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\raymapview.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\takepictureview.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\values\strings.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\mipmap-hdpi\icon.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\mipmap-mdpi\icon.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\mipmap-xhdpi\icon.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\mipmap-xxhdpi\icon.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\mipmap-xxxhdpi\icon.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\hotdogdetailview.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\hotdogmenuview.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable\veggieloversicon.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable\raylogo.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable\meatloversicon.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable\favoritesicon.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable\appicon.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable\smallicon.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\values-nl\strings.xml
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable-ldpi\smallicon.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable-hdpi\smallicon.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable-mdpi\smallicon.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable-xhdpi\smallicon.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable-xxhdpi\smallicon.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable-xxxhdpi\smallicon.png
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\R.cs.flag
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\R.txt
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\uploadflags.txt
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\Mono.Android.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\mscorlib.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\System.Core.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\System.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\System.Xml.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\System.Net.Http.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\System.Xml.Linq.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\Microsoft.CSharp.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\Mono.Security.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\Mono.Android.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\mscorlib.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\System.Core.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\System.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\System.Xml.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\System.Net.Http.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\System.Runtime.Serialization.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\System.Xml.Linq.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\Microsoft.CSharp.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\Mono.Security.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.dll.mdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\RaysHotDogs.dll.mdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\RaysHotDogs.Core.dll.mdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\bin\Debug\RaysHotDogs.dll.mdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\RaysHotDogs.Core.dll.mdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\RaysHotDogs.dll.mdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\Microsoft.CSharp.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\Mono.Android.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\Mono.Security.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\mscorlib.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\System.Core.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\System.Net.Http.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\System.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\System.Runtime.Serialization.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\System.Xml.Linq.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\System.Xml.pdb
+C:\Users\kozhata\Desktop\od novo\1-android-xamarin-start-store-exercise-files\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable\delivery1.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\RaysHotDogs.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\RaysHotDogs.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\com.companyname.rayshotdogs.apk
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\com.companyname.rayshotdogs-Signed.apk
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\System.Net.Http.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.dll.mdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\System.Net.Http.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\MonoAndroid,Version=v4.4.AssemblyAttributes.cs
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\RaysHotDogs.nuget.stamp
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\RaysHotDogs.csprojAssemblyReference.cache
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\libraryimports.cache.stamp
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res.flag
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\RaysHotDogs.csproj.CoreCompileInputs.cache
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\RaysHotDogs.csproj.CopyComplete
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\RaysHotDogs.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\RaysHotDogs.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\android\bin\com.companyname.rayshotdogs.apk
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\hotdogrowview.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\mainmenu.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\aboutview.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\cartview.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\cartrowview.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\favoritehotdogfragment.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\meatloversfragment.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\veggieloversfragment.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\hotdogtabbedmenu.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\raymapview.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\takepictureview.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\values\strings.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\hotdogdetailview.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\layout\hotdogmenuview.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable\veggieloversicon.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable\raylogo.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable\meatloversicon.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable\favoritesicon.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable\appicon.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable\smallicon.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\values-nl\strings.xml
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable\delivery1.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\R.cs.flag
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\R.txt
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\uploadflags.txt
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\Microsoft.CSharp.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\Mono.Android.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\Mono.Security.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\mscorlib.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\System.Core.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\System.Net.Http.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\System.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\System.Xml.Linq.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\System.Xml.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\RaysHotDogs.dll.mdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\RaysHotDogs.Core.dll.mdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\RaysHotDogs.dll.mdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\Microsoft.CSharp.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\Mono.Android.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\Mono.Security.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\mscorlib.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\System.Core.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\System.Net.Http.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\System.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\System.Runtime.Serialization.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\System.Xml.Linq.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\android\assets\System.Xml.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\RaysHotDogs.Core.dll.mdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\RaysHotDogs.dll.mdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\Microsoft.CSharp.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\Mono.Android.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\Mono.Security.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\mscorlib.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\System.Core.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\System.Net.Http.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\System.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\System.Runtime.Serialization.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\System.Xml.Linq.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\System.Xml.pdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable-hdpi\smallicon.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable-mdpi\smallicon.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable-xhdpi\smallicon.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable-xxhdpi\smallicon.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\drawable-xxxhdpi\smallicon.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\mipmap-mdpi\icon.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\mipmap-xhdpi\icon.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\mipmap-xxhdpi\icon.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\mipmap-xxxhdpi\icon.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\res\mipmap-hdpi\icon.png
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\RaysHotDogs.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs.Core\bin\Debug\RaysHotDogs.Core.dll
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\bin\Debug\RaysHotDogs.Core.dll.mdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\RaysHotDogs.dll.mdb
+C:\Users\kozhata\Desktop\Diplomska\rayshotdogs\RaysHotDogs\obj\Debug\44\linksrc\RaysHotDogs.Core.dll.mdb
